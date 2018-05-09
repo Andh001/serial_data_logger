@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DataLogger">
+</Property><Property Name="Solution File" Value="C:\Users\MAHARAJ\Downloads\DataLogger\DataLogger.sln">
+</Property><Property Name="Date" Value="Monday, August 28, 2017">
+</Property><Property Name="Time" Value="21:53 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="DataLogger.sln" Description="File successfully backed up as C:\Users\MAHARAJ\Downloads\DataLogger\Backup\DataLogger.sln">
+</Event><Event ErrorLevel="0" Project="DataLogger" Source="WindowsFormsApp1\DataLogger.csproj" Description="Project file successfully backed up as C:\Users\MAHARAJ\Downloads\DataLogger\Backup\WindowsFormsApp1\DataLogger.csproj">
+</Event><Event ErrorLevel="0" Project="DataLogger" Source="WindowsFormsApp1\Form1.cs" Description="File successfully backed up as C:\Users\MAHARAJ\Downloads\DataLogger\Backup\WindowsFormsApp1\Form1.cs">
+</Event><Event ErrorLevel="0" Project="DataLogger" Source="WindowsFormsApp1\Form1.Designer.cs" Description="File successfully backed up as C:\Users\MAHARAJ\Downloads\DataLogger\Backup\WindowsFormsApp1\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DataLogger" Source="WindowsFormsApp1\Program.cs" Description="File successfully backed up as C:\Users\MAHARAJ\Downloads\DataLogger\Backup\WindowsFormsApp1\Program.cs">
+</Event><Event ErrorLevel="0" Project="DataLogger" Source="WindowsFormsApp1\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\MAHARAJ\Downloads\DataLogger\Backup\WindowsFormsApp1\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DataLogger" Source="WindowsFormsApp1\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\MAHARAJ\Downloads\DataLogger\Backup\WindowsFormsApp1\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DataLogger" Source="WindowsFormsApp1\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\MAHARAJ\Downloads\DataLogger\Backup\WindowsFormsApp1\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DataLogger" Source="WindowsFormsApp1\packages.config" Description="File successfully backed up as C:\Users\MAHARAJ\Downloads\DataLogger\Backup\WindowsFormsApp1\packages.config">
+</Event><Event ErrorLevel="0" Project="DataLogger" Source="WindowsFormsApp1\Properties\Settings.settings" Description="File successfully backed up as C:\Users\MAHARAJ\Downloads\DataLogger\Backup\WindowsFormsApp1\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="DataLogger" Source="WindowsFormsApp1\App.config" Description="File successfully backed up as C:\Users\MAHARAJ\Downloads\DataLogger\Backup\WindowsFormsApp1\App.config">
+</Event><Event ErrorLevel="0" Project="DataLogger" Source="WindowsFormsApp1\Form1.resx" Description="File successfully backed up as C:\Users\MAHARAJ\Downloads\DataLogger\Backup\WindowsFormsApp1\Form1.resx">
+</Event><Event ErrorLevel="0" Project="DataLogger" Source="WindowsFormsApp1\Properties\Resources.resx" Description="File successfully backed up as C:\Users\MAHARAJ\Downloads\DataLogger\Backup\WindowsFormsApp1\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="DataLogger" Source="WindowsFormsApp1\DataLogger.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="DataLogger" Source="WindowsFormsApp1\DataLogger.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="DataLogger.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="DataLogger.sln" Description="Converted">
+</Event></UpgradeLog>
